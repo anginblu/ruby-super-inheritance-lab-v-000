@@ -1,4 +1,4 @@
-require
+require student.rb
 
 class ChattyStudent < Student
 
